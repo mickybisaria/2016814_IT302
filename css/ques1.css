@@ -1,0 +1,13 @@
+body {
+				background-color:red;
+				background-image: linear-gradient(to right,rgba(56,211,78,1),rgba(46,67,25,0.4)),url("images/36.jpg");
+                                background-size:contain;
+
+}
+h1{                            font-size:30px;
+                               color:rgb(78,43,90);
+                              
+}
+span{                          color:yellow;
+}
+p{                             word-spacing:20px;

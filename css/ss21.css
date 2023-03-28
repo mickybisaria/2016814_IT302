@@ -1,0 +1,31 @@
+h1{
+    display :flex;
+    justify-content: left;
+}
+.container>nav>ul {
+
+    list-style-type:none;
+    float:left;
+    display :flex;
+    justify-content: left;
+    align-items: left;
+    font-size:12px;
+}
+.c>nav>ul {
+    list-style-type:none;
+    float:center;
+    display :flex;
+    justify-content: center;
+    align-items: center;
+    font-size:20px;
+    background-color:rgba(0,0,0,0.7);
+    
+    
+
+}
+.container>nav>ul li{
+    margin-left: 12px;
+}
+.c>nav>ul li{
+    margin-left: 12px;
+} 
