@@ -1,0 +1,157 @@
+.navi {
+    position: relative;
+    height: 10%;
+    width: 100%;
+    
+}
+.navi > ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    background-image: url("th\ \(1\).jpeg");
+    justify-content: center;
+}
+
+.navi > ul li {
+    margin: 5px;
+    color: black;
+    font-size: 30px;
+   
+    margin-right: 50px;
+}
+
+.navi > ul > a {
+    text-decoration: none;
+}
+
+.navi > ul li:hover {
+    
+    background-color: rgb(233, 33, 56);
+}
+
+.hidden{
+    list-style: none;
+    display:none;
+}
+
+.hidden a:hover {
+    background: #000;
+    color: white;
+    display: block;
+}
+
+.ab:hover a{
+    display: block;
+}
+
+.container1{
+    display: flex;
+    
+    width: 100%;
+}
+
+.img{
+    display: flex;
+    width: 30%;
+    height: 30%;
+    
+    justify-content: space-evenly;
+}
+
+.nav{
+    display: flex;
+    width: 70%;
+    justify-content: space-evenly;
+    background-color: aqua;
+}
+
+.nav a{
+    margin: 10px;
+    color: black;
+    font-size: 15px;
+    
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.container2{
+    height: 700px;
+    width: 100%;
+    display: flex;
+    position:relative;
+    background-image: url("th\ \(2\).jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.new{
+  position:relative;
+  left:70%;
+  height:100%;
+  width:30%;
+background-color:rgba(123,134,111, 0.5);
+
+}
+
+
+.p1{
+   position:relative;
+   left:30px;
+   top:150px;
+ color:rgb(205, 43, 43);
+  font-style:italic;
+  font-weight: bolder;
+  font-size:20px;
+
+
+}
+
+.p2{
+   position:relative;
+   left:30px;
+   top:120px;
+ color:rgb(20, 19, 19);
+  font-style:italic;
+  font-weight: bolder;
+   font-size:40px;
+
+}
+
+
+.p3{
+   position:relative;
+   left:30px;
+   top:120px;
+ color:rgb(14, 15, 14);
+  font-style:italic;
+  font-weight: bolder;
+   font-size:20px;
+
+}
+
+
+.p4{
+   position:relative;
+   left:30px;
+   top:120px;
+  color:rgb(197, 33, 33);
+  font-style:italic;
+  border: dashed 3px black;
+  width:100px;
+  font-size:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
